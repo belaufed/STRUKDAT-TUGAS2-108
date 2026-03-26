@@ -147,7 +147,7 @@ Class `Main` merupakan bagian penting dan utama dalam program untuk menjalankan 
 | Encapsulation / Access Modifier | program ini juga memakai acess modifier seperti `private`, `public`, dan `protected`. Atribut pada class `lagu` dibuat private karena untuk menjaga agar data tersebut tidak gampang diakses langsung dari luar class, sedangkan atribut `nama` pada class `orang` dibikin `protected` agar turunan bawahnya tetap bisa mengakses.  |
 
 ### Output
-![Output](output.png)
+![Output](output%20strukdat.png)
 
 
 
